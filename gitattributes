@@ -1,1 +1,2 @@
-*.javascript linguist-language=Python
+*.css linguist-detectable=false
+*.javascript linguist-detectable=false
